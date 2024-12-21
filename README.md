@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+I am a computer science major and have finished my fist semester with an A. I am still very new to the world of coding and only know python so far.
+My pronouns are He/Him
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
